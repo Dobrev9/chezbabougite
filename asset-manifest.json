@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dobrev9/chezbabougite/static/css/main.ae73e785.css",
+    "main.js": "/Dobrev9/chezbabougite/static/js/main.91397020.js",
+    "static/js/453.2f6e4705.chunk.js": "/Dobrev9/chezbabougite/static/js/453.2f6e4705.chunk.js",
+    "index.html": "/Dobrev9/chezbabougite/index.html",
+    "main.ae73e785.css.map": "/Dobrev9/chezbabougite/static/css/main.ae73e785.css.map",
+    "main.91397020.js.map": "/Dobrev9/chezbabougite/static/js/main.91397020.js.map",
+    "453.2f6e4705.chunk.js.map": "/Dobrev9/chezbabougite/static/js/453.2f6e4705.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae73e785.css",
+    "static/js/main.91397020.js"
+  ]
+}
