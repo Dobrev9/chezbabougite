@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chezbabougite/static/css/main.ae73e785.css",
+    "main.css": "/chezbabougite/static/css/main.7716d1a5.css",
     "main.js": "/chezbabougite/static/js/main.fd03629b.js",
     "static/js/453.2f6e4705.chunk.js": "/chezbabougite/static/js/453.2f6e4705.chunk.js",
     "index.html": "/chezbabougite/index.html",
-    "main.ae73e785.css.map": "/chezbabougite/static/css/main.ae73e785.css.map",
+    "main.7716d1a5.css.map": "/chezbabougite/static/css/main.7716d1a5.css.map",
     "main.fd03629b.js.map": "/chezbabougite/static/js/main.fd03629b.js.map",
     "453.2f6e4705.chunk.js.map": "/chezbabougite/static/js/453.2f6e4705.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae73e785.css",
+    "static/css/main.7716d1a5.css",
     "static/js/main.fd03629b.js"
   ]
 }
